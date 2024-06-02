@@ -1,0 +1,145 @@
+Resultados del Cluster 'Cluster_03':
+De la columna 'motivo_ros': El 67.03% de los Registros es 'Posible Operacion LA' Con un total de 3366 Items
+De la columna 'tipologia': El 51.75% de los Registros es 'Posible Operacion LA' Con un total de 2599 Items
+De la columna 'delito_fuente': El 46.30% de los Registros es 'Posible Operacion LA' Con un total de 2325 Items
+De la columna 'segm_comercial': El 44.11% de los Registros es 'PERSONAL' Con un total de 2215 Items
+De la columna 'tipo_cli': El 92.91% de los Registros es 'PERSONA NATURAL' Con un total de 4666 Items
+De la columna 'sociedad_ccial_civ': El 96.08% de los Registros es 'Sin Informacion' Con un total de 4825 Items
+De la columna 'ciiu': El 46.59% de los Registros es 'ASALARIADOS' Con un total de 2340 Items
+De la columna 'riesgo_actividad_economica': El 62.58% de los Registros es 'BAJO' Con un total de 3143 Items
+De la columna 'ocup': El 34.79% de los Registros es 'EMPLEADO' Con un total de 1747 Items
+De la columna 'riesgo_ocupacion': El 53.50% de los Registros es 'Medio' Con un total de 2687 Items
+De la columna 'nombre_ciudad_dirp': El 10.97% de los Registros es '7bb20f00' Con un total de 551 Items
+De la columna 'riesgo_ciudad_de_residencia': El 65.17% de los Registros es 'ALTO' Con un total de 3273 Items
+De la columna 'pais_nacim': El 83.11% de los Registros es 'COLOMBIA' Con un total de 4174 Items
+De la columna 'cv': El 83.41% de los Registros es 'MEDIO' Con un total de 4189 Items
+De la columna 'pais_origen_recursos1': El 79.29% de los Registros es 'COLOMBIA' Con un total de 3982 Items
+De la columna 'riesgo_pais_origen_de_recursos': El 82.20% de los Registros es 'MEDIO' Con un total de 4128 Items
+De la columna 'pais_residencia1': El 96.22% de los Registros es 'COLOMBIA' Con un total de 4832 Items
+De la columna 'riesgo_pais_residencia': El 96.71% de los Registros es 'MEDIO' Con un total de 4857 Items
+De la columna 'estado_cli': El 54.00% de los Registros es 'ACTIVO' Con un total de 2712 Items
+De la columna 'ctrl_terc': El 57.79% de los Registros es 'CLIENTE' Con un total de 2902 Items
+De la columna 'desc_subcateg': El 72.86% de los Registros es 'Sin Informacion' Con un total de 3659 Items
+De la columna 'ing_mes': El 36.36% de los Registros es 'Rango entre 0.0 y 1192000.0' Con un total de 1826 Items
+De la columna 'egresos_mes': El 61.11% de los Registros es 'Rango entre 0.0 y 713411.0' Con un total de 3069 Items
+De la columna 'monto_total_anual_transado__efectivo_': El 59.92% de los Registros es 'Rango entre 0.0 y 9132000.0' Con un total de 3009 Items
+De la columna 'monto_total_anual_transado__operaciones_internacionales_': El 75.45% de los Registros es 'Rango entre 0.0 y 25987828.1782' Con un total de 3789 Items
+De la columna 'frecuencia_total_anual_transada__operaciones_internacionales_': El 88.21% de los Registros es 'Rango entre 0.0 y 80.0' Con un total de 4430 Items
+De la columna 'frecuencia_total_anual_transada__efectivo_': El 86.94% de los Registros es 'Rango entre 0.0 y 94.0' Con un total de 4366 Items
+--------------------------------------------------
+Resultados del Cluster 'Cluster_00':
+De la columna 'motivo_ros': El 69.43% de los Registros es 'Posible Operacion LA' Con un total de 3486 Items
+De la columna 'tipologia': El 53.61% de los Registros es 'Posible Operacion LA' Con un total de 2692 Items
+De la columna 'delito_fuente': El 44.85% de los Registros es 'Posible Operacion LA' Con un total de 2252 Items
+De la columna 'segm_comercial': El 44.00% de los Registros es 'PERSONAL' Con un total de 2209 Items
+De la columna 'tipo_cli': El 93.55% de los Registros es 'PERSONA NATURAL' Con un total de 4697 Items
+De la columna 'sociedad_ccial_civ': El 96.08% de los Registros es 'Sin Informacion' Con un total de 4824 Items
+De la columna 'ciiu': El 45.43% de los Registros es 'ASALARIADOS' Con un total de 2281 Items
+De la columna 'riesgo_actividad_economica': El 61.46% de los Registros es 'BAJO' Con un total de 3086 Items
+De la columna 'ocup': El 34.77% de los Registros es 'EMPLEADO' Con un total de 1746 Items
+De la columna 'riesgo_ocupacion': El 54.33% de los Registros es 'Medio' Con un total de 2728 Items
+De la columna 'nombre_ciudad_dirp': El 12.61% de los Registros es 'b9a6a2fbf54' Con un total de 633 Items
+De la columna 'riesgo_ciudad_de_residencia': El 65.19% de los Registros es 'ALTO' Con un total de 3273 Items
+De la columna 'pais_nacim': El 84.58% de los Registros es 'COLOMBIA' Con un total de 4247 Items
+De la columna 'cv': El 85.26% de los Registros es 'MEDIO' Con un total de 4281 Items
+De la columna 'pais_origen_recursos1': El 77.57% de los Registros es 'COLOMBIA' Con un total de 3895 Items
+De la columna 'riesgo_pais_origen_de_recursos': El 81.62% de los Registros es 'MEDIO' Con un total de 4098 Items
+De la columna 'pais_residencia1': El 96.73% de los Registros es 'COLOMBIA' Con un total de 4857 Items
+De la columna 'riesgo_pais_residencia': El 97.11% de los Registros es 'MEDIO' Con un total de 4876 Items
+De la columna 'estado_cli': El 55.33% de los Registros es 'ACTIVO' Con un total de 2778 Items
+De la columna 'ctrl_terc': El 59.05% de los Registros es 'CLIENTE' Con un total de 2965 Items
+De la columna 'desc_subcateg': El 74.83% de los Registros es 'Sin Informacion' Con un total de 3757 Items
+De la columna 'ing_mes': El 35.67% de los Registros es 'Rango entre 0.0 y 1192000.0' Con un total de 1791 Items
+De la columna 'egresos_mes': El 61.04% de los Registros es 'Rango entre 0.0 y 713411.0' Con un total de 3065 Items
+De la columna 'monto_total_anual_transado__efectivo_': El 60.84% de los Registros es 'Rango entre 0.0 y 9132000.0' Con un total de 3055 Items
+De la columna 'monto_total_anual_transado__operaciones_internacionales_': El 74.77% de los Registros es 'Rango entre 0.0 y 25987828.1782' Con un total de 3754 Items
+De la columna 'frecuencia_total_anual_transada__operaciones_internacionales_': El 87.19% de los Registros es 'Rango entre 0.0 y 80.0' Con un total de 4378 Items
+De la columna 'frecuencia_total_anual_transada__efectivo_': El 87.65% de los Registros es 'Rango entre 0.0 y 94.0' Con un total de 4401 Items
+--------------------------------------------------
+Resultados del Cluster 'Cluster_01':
+De la columna 'motivo_ros': El 67.35% de los Registros es 'Posible Operacion LA' Con un total de 3407 Items
+De la columna 'tipologia': El 52.28% de los Registros es 'Posible Operacion LA' Con un total de 2645 Items
+De la columna 'delito_fuente': El 45.56% de los Registros es 'Posible Operacion LA' Con un total de 2305 Items
+De la columna 'segm_comercial': El 45.11% de los Registros es 'PERSONAL' Con un total de 2282 Items
+De la columna 'tipo_cli': El 93.75% de los Registros es 'PERSONA NATURAL' Con un total de 4743 Items
+De la columna 'sociedad_ccial_civ': El 97.05% de los Registros es 'Sin Informacion' Con un total de 4910 Items
+De la columna 'ciiu': El 47.10% de los Registros es 'ASALARIADOS' Con un total de 2383 Items
+De la columna 'riesgo_actividad_economica': El 62.40% de los Registros es 'BAJO' Con un total de 3157 Items
+De la columna 'ocup': El 36.02% de los Registros es 'EMPLEADO' Con un total de 1822 Items
+De la columna 'riesgo_ocupacion': El 54.87% de los Registros es 'Medio' Con un total de 2776 Items
+De la columna 'nombre_ciudad_dirp': El 11.44% de los Registros es 'b9a6a2fbf54' Con un total de 579 Items
+De la columna 'riesgo_ciudad_de_residencia': El 65.67% de los Registros es 'ALTO' Con un total de 3322 Items
+De la columna 'pais_nacim': El 82.82% de los Registros es 'COLOMBIA' Con un total de 4190 Items
+De la columna 'cv': El 83.49% de los Registros es 'MEDIO' Con un total de 4224 Items
+De la columna 'pais_origen_recursos1': El 75.61% de los Registros es 'COLOMBIA' Con un total de 3825 Items
+De la columna 'riesgo_pais_origen_de_recursos': El 79.56% de los Registros es 'MEDIO' Con un total de 4025 Items
+De la columna 'pais_residencia1': El 95.34% de los Registros es 'COLOMBIA' Con un total de 4823 Items
+De la columna 'riesgo_pais_residencia': El 95.71% de los Registros es 'MEDIO' Con un total de 4842 Items
+De la columna 'estado_cli': El 53.51% de los Registros es 'ACTIVO' Con un total de 2707 Items
+De la columna 'ctrl_terc': El 55.58% de los Registros es 'CLIENTE' Con un total de 2812 Items
+De la columna 'desc_subcateg': El 73.33% de los Registros es 'Sin Informacion' Con un total de 3710 Items
+De la columna 'ing_mes': El 37.91% de los Registros es 'Rango entre 0.0 y 1192000.0' Con un total de 1918 Items
+De la columna 'egresos_mes': El 61.51% de los Registros es 'Rango entre 0.0 y 713411.0' Con un total de 3112 Items
+De la columna 'monto_total_anual_transado__efectivo_': El 60.05% de los Registros es 'Rango entre 0.0 y 9132000.0' Con un total de 3038 Items
+De la columna 'monto_total_anual_transado__operaciones_internacionales_': El 74.58% de los Registros es 'Rango entre 0.0 y 25987828.1782' Con un total de 3773 Items
+De la columna 'frecuencia_total_anual_transada__operaciones_internacionales_': El 88.28% de los Registros es 'Rango entre 0.0 y 80.0' Con un total de 4466 Items
+De la columna 'frecuencia_total_anual_transada__efectivo_': El 86.64% de los Registros es 'Rango entre 0.0 y 94.0' Con un total de 4383 Items
+--------------------------------------------------
+Resultados del Cluster 'Cluster_02':
+De la columna 'motivo_ros': El 68.28% de los Registros es 'Posible Operacion LA' Con un total de 3539 Items
+De la columna 'tipologia': El 53.42% de los Registros es 'Posible Operacion LA' Con un total de 2769 Items
+De la columna 'delito_fuente': El 44.53% de los Registros es 'Posible Operacion LA' Con un total de 2308 Items
+De la columna 'segm_comercial': El 42.70% de los Registros es 'PERSONAL' Con un total de 2213 Items
+De la columna 'tipo_cli': El 92.40% de los Registros es 'PERSONA NATURAL' Con un total de 4789 Items
+De la columna 'sociedad_ccial_civ': El 95.95% de los Registros es 'Sin Informacion' Con un total de 4973 Items
+De la columna 'ciiu': El 47.56% de los Registros es 'ASALARIADOS' Con un total de 2465 Items
+De la columna 'riesgo_actividad_economica': El 62.43% de los Registros es 'BAJO' Con un total de 3236 Items
+De la columna 'ocup': El 36.25% de los Registros es 'EMPLEADO' Con un total de 1879 Items
+De la columna 'riesgo_ocupacion': El 55.74% de los Registros es 'Medio' Con un total de 2889 Items
+De la columna 'nombre_ciudad_dirp': El 12.62% de los Registros es 'b9a6a2fbf54' Con un total de 654 Items
+De la columna 'riesgo_ciudad_de_residencia': El 65.21% de los Registros es 'ALTO' Con un total de 3380 Items
+De la columna 'pais_nacim': El 82.35% de los Registros es 'COLOMBIA' Con un total de 4268 Items
+De la columna 'cv': El 82.94% de los Registros es 'MEDIO' Con un total de 4299 Items
+De la columna 'pais_origen_recursos1': El 78.08% de los Registros es 'COLOMBIA' Con un total de 4047 Items
+De la columna 'riesgo_pais_origen_de_recursos': El 82.02% de los Registros es 'MEDIO' Con un total de 4251 Items
+De la columna 'pais_residencia1': El 95.68% de los Registros es 'COLOMBIA' Con un total de 4959 Items
+De la columna 'riesgo_pais_residencia': El 96.22% de los Registros es 'MEDIO' Con un total de 4987 Items
+De la columna 'estado_cli': El 53.15% de los Registros es 'ACTIVO' Con un total de 2755 Items
+De la columna 'ctrl_terc': El 55.76% de los Registros es 'CLIENTE' Con un total de 2890 Items
+De la columna 'desc_subcateg': El 72.97% de los Registros es 'Sin Informacion' Con un total de 3782 Items
+De la columna 'ing_mes': El 36.29% de los Registros es 'Rango entre 0.0 y 1192000.0' Con un total de 1881 Items
+De la columna 'egresos_mes': El 61.89% de los Registros es 'Rango entre 0.0 y 713411.0' Con un total de 3208 Items
+De la columna 'monto_total_anual_transado__efectivo_': El 60.60% de los Registros es 'Rango entre 0.0 y 9132000.0' Con un total de 3141 Items
+De la columna 'monto_total_anual_transado__operaciones_internacionales_': El 75.01% de los Registros es 'Rango entre 0.0 y 25987828.1782' Con un total de 3888 Items
+De la columna 'frecuencia_total_anual_transada__operaciones_internacionales_': El 88.21% de los Registros es 'Rango entre 0.0 y 80.0' Con un total de 4572 Items
+De la columna 'frecuencia_total_anual_transada__efectivo_': El 87.25% de los Registros es 'Rango entre 0.0 y 94.0' Con un total de 4522 Items
+--------------------------------------------------
+Resultados del Cluster 'Cluster_04':
+De la columna 'motivo_ros': El 67.64% de los Registros es 'Posible Operacion LA' Con un total de 3520 Items
+De la columna 'tipologia': El 52.17% de los Registros es 'Posible Operacion LA' Con un total de 2715 Items
+De la columna 'delito_fuente': El 46.18% de los Registros es 'Posible Operacion LA' Con un total de 2403 Items
+De la columna 'segm_comercial': El 44.56% de los Registros es 'PERSONAL' Con un total de 2319 Items
+De la columna 'tipo_cli': El 92.81% de los Registros es 'PERSONA NATURAL' Con un total de 4830 Items
+De la columna 'sociedad_ccial_civ': El 96.48% de los Registros es 'Sin Informacion' Con un total de 5021 Items
+De la columna 'ciiu': El 47.81% de los Registros es 'ASALARIADOS' Con un total de 2488 Items
+De la columna 'riesgo_actividad_economica': El 62.20% de los Registros es 'BAJO' Con un total de 3237 Items
+De la columna 'ocup': El 35.53% de los Registros es 'EMPLEADO' Con un total de 1849 Items
+De la columna 'riesgo_ocupacion': El 54.80% de los Registros es 'Medio' Con un total de 2852 Items
+De la columna 'nombre_ciudad_dirp': El 11.41% de los Registros es '7bb20f00' Con un total de 594 Items
+De la columna 'riesgo_ciudad_de_residencia': El 67.35% de los Registros es 'ALTO' Con un total de 3505 Items
+De la columna 'pais_nacim': El 83.92% de los Registros es 'COLOMBIA' Con un total de 4367 Items
+De la columna 'cv': El 84.57% de los Registros es 'MEDIO' Con un total de 4401 Items
+De la columna 'pais_origen_recursos1': El 79.00% de los Registros es 'COLOMBIA' Con un total de 4111 Items
+De la columna 'riesgo_pais_origen_de_recursos': El 82.38% de los Registros es 'MEDIO' Con un total de 4287 Items
+De la columna 'pais_residencia1': El 95.54% de los Registros es 'COLOMBIA' Con un total de 4972 Items
+De la columna 'riesgo_pais_residencia': El 95.87% de los Registros es 'MEDIO' Con un total de 4989 Items
+De la columna 'estado_cli': El 54.84% de los Registros es 'ACTIVO' Con un total de 2854 Items
+De la columna 'ctrl_terc': El 58.15% de los Registros es 'CLIENTE' Con un total de 3026 Items
+De la columna 'desc_subcateg': El 73.44% de los Registros es 'Sin Informacion' Con un total de 3822 Items
+De la columna 'ing_mes': El 36.66% de los Registros es 'Rango entre 0.0 y 1192000.0' Con un total de 1908 Items
+De la columna 'egresos_mes': El 58.82% de los Registros es 'Rango entre 0.0 y 713411.0' Con un total de 3061 Items
+De la columna 'monto_total_anual_transado__efectivo_': El 59.82% de los Registros es 'Rango entre 0.0 y 9132000.0' Con un total de 3113 Items
+De la columna 'monto_total_anual_transado__operaciones_internacionales_': El 74.44% de los Registros es 'Rango entre 0.0 y 25987828.1782' Con un total de 3874 Items
+De la columna 'frecuencia_total_anual_transada__operaciones_internacionales_': El 87.30% de los Registros es 'Rango entre 0.0 y 80.0' Con un total de 4543 Items
+De la columna 'frecuencia_total_anual_transada__efectivo_': El 86.36% de los Registros es 'Rango entre 0.0 y 94.0' Con un total de 4494 Items
+--------------------------------------------------

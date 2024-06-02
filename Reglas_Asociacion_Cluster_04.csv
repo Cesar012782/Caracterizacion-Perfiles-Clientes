@@ -1,0 +1,231 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+"'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.173,inf,0.692
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.069,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.146,inf,0.739
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.354,0.074,inf,0.66
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,1.0,2.354,0.074,inf,0.66
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.07,inf,0.625
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.069,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,1.0,2.354,0.074,inf,0.66
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.069,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.07,inf,0.625
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.144,inf,0.741
+"'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.057,inf,0.423
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.143,inf,0.732
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.069,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.143,inf,0.732
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.158,inf,0.762
+"'tipologia_Posible Operacion LA', 'segm_comercial_PERSONAL'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.568,0.077,inf,0.459
+"'tipologia_Posible Operacion LA', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,1.0,1.568,0.077,inf,0.459
+"'segm_comercial_PERSONAL', 'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.075,inf,0.45
+"'tipologia_Posible Operacion LA', 'segm_comercial_PERSONAL'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,1.0,1.568,0.077,inf,0.459
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.146,inf,0.739
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.148,inf,0.748
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.131,inf,0.712
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.131,inf,0.712
+"'pais_origen_recursos1_Sin Informacion', 'pais_residencia1_COLOMBIA'",'riesgo_pais_origen_de_recursos_Sin Informacion',0,0,0,1.0,5.782,0.111,inf,0.956
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion', 'riesgo_pais_origen_de_recursos_MEDIO'","'estado_cli_INACTIVO', 'pais_residencia1_COLOMBIA'",0,0,0,1.0,2.455,0.111,inf,0.73
+"'ctrl_terc_EXCLIENTE', 'pais_residencia1_COLOMBIA', 'desc_subcateg_Sin Informacion', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,1.0,2.410,0.11,inf,0.721
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,1.0,2.410,0.11,inf,0.721
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion'","'estado_cli_INACTIVO', 'pais_residencia1_COLOMBIA'",0,0,0,1.0,2.455,0.128,inf,0.756
+"'ctrl_terc_EXCLIENTE', 'pais_residencia1_COLOMBIA', 'desc_subcateg_Sin Informacion'",'estado_cli_INACTIVO',0,0,0,1.0,2.410,0.126,inf,0.746
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion'",'estado_cli_INACTIVO',0,0,0,1.0,2.410,0.126,inf,0.746
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.354,0.068,inf,0.652
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,1.0,2.354,0.068,inf,0.652
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.064,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion', 'segm_comercial_PERSONAL'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.063,inf,0.61
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.064,inf,0.617
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.063,inf,0.61
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,1.0,2.354,0.068,inf,0.652
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.063,inf,0.61
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,1.0,2.166,0.063,inf,0.61
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.196,0.133,inf,0.72
+"'tipologia_Posible Operacion LA', 'segm_comercial_PERSONAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.075,inf,0.45
+"'riesgo_pais_origen_de_recursos_Sin Informacion', 'pais_residencia1_COLOMBIA'",'pais_origen_recursos1_Sin Informacion',0,0,0,1.0,5.782,0.111,inf,0.956
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.592
+"'segm_comercial_INDEPENDIENTES', 'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,1.0,1.568,0.042,inf,0.41
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.592
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.592
+"'tipologia_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.068,inf,0.439
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,1.0,1.917,0.092,inf,0.592
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.024,0.097,inf,0.626
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,1.0,1.917,0.092,inf,0.592
+"'segm_comercial_INDEPENDIENTES', 'tipologia_Posible Operacion LA'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,1.0,1.568,0.042,inf,0.41
+"'segm_comercial_INDEPENDIENTES', 'tipologia_Posible Operacion LA'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.042,inf,0.402
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.024,0.097,inf,0.626
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.592
+"'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.593
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,1.0,2.024,0.097,inf,0.626
+"'segm_comercial_INDEPENDIENTES', 'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.042,inf,0.402
+"'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,1.0,1.917,0.092,inf,0.593
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.098,inf,0.601
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,1.0,1.917,0.092,inf,0.593
+"'segm_comercial_INDEPENDIENTES', 'tipologia_Posible Operacion LA'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.568,0.042,inf,0.41
+"'delito_fuente_Delitos contra el sistema financiero', 'tipo_cli_PERSONA NATURAL'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,1.0,1.549,0.068,inf,0.439
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares'",'tipologia_Posible Operacion LA',0,1,0,0.999,1.915,0.083,431.414,0.578
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.999,1.915,0.078,406.543,0.571
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,1,0,0.999,1.547,0.057,297.809,0.422
+"'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.999,2.022,0.081,424.498,0.603
+"'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'",'tipologia_Posible Operacion LA',0,1,0,0.999,1.914,0.077,401.282,0.569
+"'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.999,1.914,0.077,401.282,0.569
+"'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.998,1.912,0.078,203.511,0.57
+"'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,0.998,1.912,0.078,203.511,0.57
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.998,2.019,0.081,212.502,0.602
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,0.998,1.912,0.077,200.88,0.569
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'",'tipologia_Posible Operacion LA',0,1,0,0.998,1.912,0.077,200.88,0.569
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.998,2.019,0.081,212.502,0.602
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.998,1.912,0.077,200.88,0.569
+"'tipo_cli_PERSONA NATURAL', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA'",0,1,0,0.998,1.912,0.077,200.88,0.569
+"'ctrl_terc_EXCLIENTE', 'pais_residencia1_COLOMBIA'",'estado_cli_INACTIVO',0,0,0,0.997,2.404,0.176,230.101,0.837
+"'ctrl_terc_EXCLIENTE', 'pais_residencia1_COLOMBIA', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,0.997,2.403,0.14,183.437,0.769
+"'ctrl_terc_EXCLIENTE', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,0.997,2.403,0.14,183.437,0.769
+"'ctrl_terc_EXCLIENTE', 'riesgo_pais_origen_de_recursos_MEDIO'","'estado_cli_INACTIVO', 'pais_residencia1_COLOMBIA'",0,0,0,0.997,2.447,0.142,185.787,0.779
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0'",'estado_cli_INACTIVO',0,0,0,0.993,2.394,0.065,85.721,0.656
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'pais_residencia1_COLOMBIA'",'estado_cli_INACTIVO',0,0,0,0.993,2.394,0.065,85.721,0.656
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0'","'estado_cli_INACTIVO', 'pais_residencia1_COLOMBIA'",0,0,0,0.993,2.438,0.066,86.819,0.665
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'riesgo_pais_origen_de_recursos_MEDIO'","'estado_cli_INACTIVO', 'pais_residencia1_COLOMBIA'",0,0,0,0.993,2.437,0.061,80.596,0.658
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'pais_residencia1_COLOMBIA', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,0.993,2.393,0.06,79.577,0.65
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'riesgo_pais_origen_de_recursos_MEDIO'",'estado_cli_INACTIVO',0,0,0,0.993,2.393,0.06,79.577,0.65
+"'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,0.991,1.554,0.068,40.488,0.442
+"'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.991,2.032,0.097,57.264,0.63
+"'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.991,2.032,0.097,57.264,0.63
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.991,2.032,0.097,57.264,0.63
+"'tipologia_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,0.991,1.554,0.068,40.488,0.442
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",'motivo_ros_Operaciones intentadas',0,0,0,0.989,3.350,0.083,62.429,0.796
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.989,3.350,0.083,62.429,0.796
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.989,3.363,0.083,62.531,0.798
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.989,3.731,0.086,65.101,0.831
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.989,3.363,0.083,62.531,0.798
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.989,3.731,0.086,65.101,0.831
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'",'motivo_ros_Operaciones intentadas',0,0,0,0.989,3.350,0.083,62.429,0.796
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",'motivo_ros_Operaciones intentadas',0,0,0,0.989,3.350,0.083,62.429,0.796
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.989,3.731,0.086,65.101,0.831
+"'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,0.987,1.548,0.173,28.22,0.7
+"'tipologia_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,0.987,1.548,0.057,27.957,0.423
+"'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,1,0,0.986,1.546,0.057,25.688,0.422
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.986,2.021,0.081,36.288,0.604
+"'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.985,2.019,0.081,33.536,0.603
+"'delito_fuente_Enriquecimiento ilicito de particulares', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.985,2.019,0.081,33.536,0.603
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.982,3.327,0.19,39.065,0.967
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",'motivo_ros_Operaciones intentadas',0,0,0,0.98,3.320,0.17,35.107,0.93
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.98,3.320,0.17,35.107,0.93
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.98,3.333,0.171,35.164,0.932
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",'motivo_ros_Operaciones intentadas',0,0,0,0.975,3.302,0.19,27.66,0.967
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.975,3.315,0.19,27.706,0.969
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.967,2.277,0.067,17.555,0.64
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.967,2.277,0.067,17.555,0.64
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.967,2.124,0.063,16.623,0.603
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.967,2.124,0.063,16.623,0.603
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,0.967,2.095,0.062,16.429,0.596
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.967,2.277,0.067,17.555,0.64
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,0.967,2.095,0.062,16.429,0.596
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,0.967,2.095,0.062,16.429,0.596
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,0.967,2.095,0.062,16.429,0.596
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'motivo_ros_Operaciones intentadas',0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'",'motivo_ros_Operaciones intentadas',0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.253,0.082,16.162,0.79
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.253,0.082,16.162,0.79
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.253,0.082,16.162,0.79
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.956,3.240,0.081,16.136,0.788
+"'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.253,0.082,16.162,0.79
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.956,3.609,0.085,16.827,0.824
+"'segm_comercial_PERSONAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.956,3.240,0.081,16.136,0.788
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,0.947,2.052,0.142,10.233,0.724
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.944,1.910,0.092,8.989,0.599
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.942,2.068,0.129,9.36,0.702
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'delito_fuente_Posible Operacion LA',0,0,0,0.942,2.040,0.127,9.251,0.693
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'delito_fuente_Posible Operacion LA',0,0,0,0.942,2.040,0.127,9.251,0.693
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.941,1.905,0.078,8.611,0.575
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.935,1.918,0.092,7.915,0.602
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Delitos contra el sistema financiero'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.935,1.918,0.092,7.915,0.602
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.93,3.152,0.186,10.114,0.965
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.93,3.152,0.186,10.114,0.965
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.929,1.905,0.076,7.22,0.575
+"'motivo_ros_Posible Operacion LA', 'delito_fuente_Enriquecimiento ilicito de particulares'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.929,1.905,0.076,7.22,0.575
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.925,3.137,0.185,9.383,0.965
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.925,3.315,0.19,9.592,0.989
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.925,3.137,0.185,9.383,0.965
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.923,3.139,0.166,9.158,0.926
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",'motivo_ros_Operaciones intentadas',0,0,0,0.923,3.127,0.166,9.143,0.924
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.923,3.127,0.166,9.143,0.924
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",'motivo_ros_Operaciones intentadas',0,0,0,0.923,3.127,0.166,9.143,0.924
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",0,0,0,0.923,3.127,0.166,9.143,0.924
+"'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'","'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.923,3.139,0.166,9.158,0.926
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'pais_residencia1_COLOMBIA'","'riesgo_pais_origen_de_recursos_MEDIO', 'estado_cli_INACTIVO'",0,0,0,0.922,2.903,0.068,8.695,0.739
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0'","'riesgo_pais_origen_de_recursos_MEDIO', 'estado_cli_INACTIVO'",0,0,0,0.922,2.903,0.068,8.695,0.739
+"'ctrl_terc_EXCLIENTE', 'egresos_mes_Rango entre 717700.0 y 3163000.0'","'riesgo_pais_origen_de_recursos_MEDIO', 'pais_residencia1_COLOMBIA', 'estado_cli_INACTIVO'",0,0,0,0.922,2.921,0.068,8.72,0.741
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'",'tipologia_Captacion ilegal de recursos',0,0,0,0.921,3.125,0.185,8.952,0.965
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.921,3.152,0.186,8.984,0.969
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.699,0.086,9.439,0.837
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.324,0.082,9.086,0.802
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.699,0.086,9.439,0.837
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.08,8.893,0.783
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.299,0.082,9.06,0.799
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.324,0.082,9.086,0.802
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.299,0.082,9.06,0.799
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.08,8.893,0.783
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.08,8.893,0.783
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.299,0.082,9.06,0.799
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.08,8.893,0.783
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.699,0.086,9.439,0.837
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.299,0.082,9.06,0.799
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'tipo_cli_PERSONA NATURAL'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.92,3.484,0.084,9.246,0.818
+"'motivo_ros_Operaciones intentadas', 'segm_comercial_PERSONAL', 'delito_fuente_Posible Operacion LA'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.08,8.862,0.779
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.323,0.17,9.065,0.951
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.166,8.841,0.925
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.166,8.841,0.925
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.166,8.841,0.925
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.298,0.17,9.039,0.948
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.92,3.298,0.17,9.039,0.948
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.166,8.872,0.928
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",'tipologia_Captacion ilegal de recursos',0,0,0,0.92,3.122,0.166,8.841,0.925
+"'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'","'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.92,3.149,0.166,8.872,0.928
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.901,2.121,0.14,5.828,0.749
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.897,2.111,0.128,5.574,0.723
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.897,2.111,0.128,5.574,0.723
+"'motivo_ros_Operaciones intentadas', 'tipologia_Captacion ilegal de recursos'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.897,2.111,0.128,5.574,0.723
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.881,3.323,0.17,6.158,0.967
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.874,3.298,0.17,5.832,0.966
+"'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.874,3.298,0.17,5.832,0.966
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion'","'riesgo_pais_origen_de_recursos_MEDIO', 'estado_cli_INACTIVO'",0,0,0,0.873,2.749,0.12,5.355,0.811
+"'ctrl_terc_EXCLIENTE', 'desc_subcateg_Sin Informacion'","'riesgo_pais_origen_de_recursos_MEDIO', 'pais_residencia1_COLOMBIA', 'estado_cli_INACTIVO'",0,0,0,0.873,2.765,0.12,5.37,0.814
+"'ctrl_terc_EXCLIENTE', 'pais_residencia1_COLOMBIA', 'desc_subcateg_Sin Informacion'","'riesgo_pais_origen_de_recursos_MEDIO', 'estado_cli_INACTIVO'",0,0,0,0.873,2.749,0.12,5.355,0.811
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.851,2.004,0.125,3.871,0.708
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA'",'tipologia_Posible Operacion LA',0,1,0,0.84,1.610,0.044,2.993,0.441
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.84,1.610,0.044,2.993,0.441
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.84,1.723,0.049,3.206,0.488
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.84,1.723,0.049,3.206,0.488
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.84,1.701,0.048,3.167,0.479
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",'tipologia_Posible Operacion LA',0,1,0,0.84,1.610,0.044,2.993,0.441
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'","'tipologia_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.84,1.701,0.048,3.167,0.479
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA'","'tipologia_Posible Operacion LA', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.84,1.723,0.049,3.206,0.488
+"'segm_comercial_INDEPENDIENTES', 'motivo_ros_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'",'tipologia_Posible Operacion LA',0,1,0,0.84,1.610,0.044,2.993,0.441
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL', 'delito_fuente_Posible Operacion LA'",0,0,0,0.834,3.149,0.166,4.436,0.964
+"'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'","'motivo_ros_Operaciones intentadas', 'tipo_cli_PERSONA NATURAL'",0,0,0,0.834,3.149,0.166,4.436,0.964
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'delito_fuente_Posible Operacion LA'",0,0,0,0.829,3.333,0.171,4.403,0.991
+"'motivo_ros_Operaciones intentadas', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.829,3.139,0.166,4.313,0.965
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA', 'sociedad_ccial_civ_Sin Informacion'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.829,3.139,0.166,4.313,0.965
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos', 'sociedad_ccial_civ_Sin Informacion'",0,0,0,0.826,3.127,0.166,4.233,0.965
+"'motivo_ros_Operaciones intentadas', 'delito_fuente_Posible Operacion LA'","'tipo_cli_PERSONA NATURAL', 'tipologia_Captacion ilegal de recursos'",0,0,0,0.826,3.127,0.166,4.233,0.965
+"'estado_cli_INACTIVO', 'egresos_mes_Rango entre 717700.0 y 3163000.0', 'pais_residencia1_COLOMBIA'",'ctrl_terc_EXCLIENTE',0,0,0,0.801,2.647,0.07,3.497,0.723
